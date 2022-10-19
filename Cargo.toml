@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 bevy = {git = "https://github.com/paxsethorld/bevy-fork.git", branch = "local-0-8-release", features = ["jpeg"]}
+#bevy = "0.8.1"
+#bevy-inspector-egui = "0.13.0" 
